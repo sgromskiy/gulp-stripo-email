@@ -1,0 +1,25 @@
+{
+  "name": "email-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
+    "gulp-inline-css": "^3.5.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-pretty-html": "^2.0.10",
+    "gulp-replace": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
