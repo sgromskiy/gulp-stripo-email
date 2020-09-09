@@ -18,4 +18,6 @@ Export extender  for https://stripo.email/
 
 7. run `gulp`
 
-8. send test email using [https://putsmail.com/tests/new](https://putsmail.com/tests/new) and code from `/dist/email.html`
+8. run `gulp min` to remove extra spaces
+
+9. send test email using [https://putsmail.com/tests/new](https://putsmail.com/tests/new) and code from `/dist/email.html`
